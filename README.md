@@ -30,14 +30,6 @@ jupyter notebook
 - Create meaningful visualizations
 - Build automated data workflows
 
-## Repository Structure
-
-```
-├── datasets/          # Sample datasets
-├── notebooks/         # Jupyter tutorials
-├── scripts/          # Utility scripts
-├── exercises/        # Practice problems
-└── visualizations/   # Output plots
 ```
 
 ## Key Technologies
